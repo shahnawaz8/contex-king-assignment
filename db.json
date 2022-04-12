@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "name": "Mohd Shahnawaz",
+      "age": "32",
+      "date_of_birth": "1990",
+      "state_of_residence": "okhla",
+      "address": "c19 new abul fazal shaheel bagh new delhi india",
+      "pin_code": "110026",
+      "id": 3
+    }
+  ]
+}
